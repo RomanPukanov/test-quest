@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5cebc9c9-d6ca-453a-9784-d338ba71ae86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test-quest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-quest-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-quest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test-quest.py" afterDir="false" />
     </list>
