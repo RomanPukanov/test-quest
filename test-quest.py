@@ -15,3 +15,4 @@ if __name__ == '__main__':
 Опять какие то изменения , ветка БАСКЕТ
 И ничего не понятно
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Проверям отправитился ли на удалёный серваке
